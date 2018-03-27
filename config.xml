@@ -1,4 +1,4 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.latarjetadigital.mrjugo" version="1.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.latarjetadigital.mrjugo" version="1.0.1">
   <preference name="loadUrlTimeoutValue" value="700000" />
   <name>Mr Jugo</name>
   <description>Los Mejores Jugos Naturales a un paso de ti</description>
@@ -38,6 +38,7 @@
   <gap:plugin name="org.apache.cordova.splashscreen"/>               
   <gap:plugin name="org.apache.cordova.vibration"/>-->
   <icon src="icon.png"/>
+
     <platform name="ios">
       <icon src="res/icon/ios/icon-57.png" width="57" height="57" />
       <icon src="res/icon/ios/icon-72-2x.png" width="144" height="144" />
